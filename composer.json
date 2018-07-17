@@ -1,8 +1,8 @@
 {
     "name": "justary/hello",
     "description": "this is test package",
-    "type": "library",
-    "license": "mit",
+    "type": "Library",
+    "license": "MIT",
     "authors": [
         {
             "name": "city8866",
