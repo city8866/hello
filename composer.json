@@ -1,0 +1,21 @@
+{
+    "name": "justary/hello",
+    "description": "this is test package",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "city8866",
+            "email": "965177646@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    	"php" : ">=5.3.0"
+    },
+    "autoload":{
+    	"psr-4":{
+		"Hello\\" : "src/"
+	}
+    }
+}
